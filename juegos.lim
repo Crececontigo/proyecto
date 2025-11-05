@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="5.6.4">
+    <config>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>FFFFFF</corfondo>
+        <cornavega>0080FF</cornavega>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <titulo>Juegos Crece Contigo</titulo>
+        <autor>Proyecto 2025</autor>
+        <logo>logocmp.png</logo>
+        <informe>1</informe>
+        <botonson>1</botonson>
+        <maximizar>1</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >Muy bien</correcto>
+        <incorrecto son="" modo="1" >Sigue intentando</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>38</tipo>
+              <imaxe>logocmp.png</imaxe>
+              <forma>0</forma>
+              <texto><![CDATA[
+<p align="left">
+<font color="#080000" face="Arial" size="54">Crece Contigo<br>
+Proyecto 2025</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="2" >
+              <tipo>17</tipo>
+              <cabeceira>crecimiento personal. Busca las parejas iguales. Haz clic en dos cartas para voltearlas.</cabeceira>
+              <pe>Si son iguales, se quedan visibles. ¡Encuentra todas antes de que se acabe el ti</pe>
+              <parellas>aceptacion.png</parellas>
+              <parellas>amorpp.jpg</parellas>
+              <parellas>corazon.jpg</parellas>
+              <parellas>sena.png</parellas>
+              <parellas>logocmp.png</parellas>
+              <parellas>fuerza.png</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>000000</ctapa>
+              <tempo>30</tempo>
+        </paxina>
+        <paxina id="3" >
+              <tipo>4</tipo>
+              <cabeceira>Sopa de letras</cabeceira>
+              <modo>2</modo>
+              <sopa enun="amor_propio.png">amorpropio</sopa>
+              <sopa enun="autoestima.png">autoestima</sopa>
+              <sopa enun="confianzaa.png">confianza</sopa>
+              <sopa enun="cuidado.png">cuidado</sopa>
+              <sopa enun="respeto.png">respeto</sopa>
+              <sopa enun="valor.png">valor</sopa>
+              <sopa enun="aceptacion.png">aceptacion</sopa>
+              <sopa enun="fuerza.png">fuerza</sopa>
+              <enunciado>0</enunciado>
+              <colorea>0</colorea>
+              <cadro>0</cadro>
+        </paxina>
+        <paxina id="4" >
+              <tipo>3</tipo>
+              <cabeceira>Rompe cabezas</cabeceira>
+              <imaxe>logocmp.jpg</imaxe>
+              <imfondo  trans="20">logocmp.png</imfondo>
+              <filas>4</filas>
+              <columnas>4</columnas>
+              <reixa>0</reixa>
+            <forma>0</forma>
+        </paxina>
+        <paxina id="5" >
+              <tipo>36</tipo>
+              <cabeceira>Observa el dibujo del lado izquierdo. Usa los colores para repetir la imagen exactamente igual. </cabeceira>
+              <pe>¡Hazlo rápido y con precisión!</pe>
+              <forma>0</forma>
+              <valor>1</valor>
+        </paxina>
+        <paxina id="6" >
+              <tipo>51</tipo>
+              <cabeceira>Dale clicka la imagen, visualiza la ubicacion y selecciona las que sean iguales</cabeceira>
+              <valor>6</valor>
+              <peza imaxe="integradocmp.jpg">1</peza>
+              <peza imaxe="sena.png">2</peza>
+              <modo>1</modo>
+        </paxina>
+        <paxina id="7" >
+              <tipo>17</tipo>
+              <cabeceira>Encuentra los pares antes de que se acabe el tiempo</cabeceira>
+              <parellas>sena.png</parellas>
+              <parellas>logocmp.png</parellas>
+              <parellas>corazon.jpg</parellas>
+              <parellas>integradocmp.jpg</parellas>
+              <parellas>copa.jpg</parellas>
+              <parellas>amorpp.jpg</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>000000</ctapa>
+              <tempo>15</tempo>
+        </paxina>
+        <paxina id="8" >
+              <tipo>20</tipo>
+              <cabeceira>Arrastra cada etiqueta hasta la imagen que le corresponda. Observa bien los dibujos y piensa qué valor representan.</cabeceira>
+              <pe>Cuando todas estén en su lugar, ¡habrás completado el reto!</pe>
+              <imaxe>fondojuego_(1).png</imaxe>
+              <modo>3</modo>
+              <etiqueta posx="98" posy="128">Autoestima</etiqueta>
+              <etiqueta posx="86" posy="324">Respeto</etiqueta>
+              <etiqueta posx="315" posy="69">Confianza</etiqueta>
+              <etiqueta posx="321" posy="284">Amor propio</etiqueta>
+              <etiqueta posx="514" posy="126">Fuerza</etiqueta>
+              <etiqueta posx="513" posy="297">Aceptacion</etiqueta>
+        </paxina>
+        <paxina id="9" >
+              <tipo>13</tipo>
+              <cabeceira>Cómo jugar:</cabeceira>
+              <pe>Arrastra las palabras al lugar correcto, Completa todas las frases, ¡Gana·</pe>
+              <unir texto="La ayuda a mejorar.">autoconciencia</unir>
+              <unir texto="Los enseñan.">errores</unir>
+              <unir texto="Buena cambia todo.">actitud</unir>
+              <unir texto="El logra metas.">esfuerzo</unir>
+              <unir texto="Sé con los demás.">positivo</unir>
+        </paxina>
+    </libro>
+</lim>
